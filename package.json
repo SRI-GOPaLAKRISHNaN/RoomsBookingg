@@ -1,0 +1,22 @@
+{
+  "name": "roomsbooking",
+  "version": "1.0.0",
+  "description": "Hotel Rooms Booking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Sri-GOPALAKRISHNAN"
+  },
+  "author": "FearLessBee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.1",
+    "nodemon": "^2.0.12",
+    "router": "^1.3.5"
+  }
+}
