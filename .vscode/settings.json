@@ -13,7 +13,10 @@
     "titleBar.activeBackground": "#1857a4",
     "titleBar.activeForeground": "#e7e7e7",
     "titleBar.inactiveBackground": "#1857a499",
-    "titleBar.inactiveForeground": "#e7e7e799"
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "sash.hoverBorder": "#1f6fd0",
+    "statusBarItem.remoteBackground": "#1857a4",
+    "statusBarItem.remoteForeground": "#e7e7e7"
   },
   "peacock.color": "#1857a4",
   "C_Cpp_Runner.cCompilerPath": "C:\\Program Files (x86)\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\gcc.exe",
